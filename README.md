@@ -1,2 +1,1 @@
-hola yo soy el readme
-actualizando readme
+Este es el archivo readme del proyecto
