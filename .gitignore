@@ -1,2 +1,3 @@
 *.txt
-prueba.py
+*.py
+!este_si_se_queda.py
