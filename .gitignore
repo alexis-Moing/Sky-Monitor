@@ -1,1 +1,15 @@
+# === Node.js ===
+frontend/node_modules/
+
+# === Python ===
+backend/venv/
+
+# === Archivos temporales ===
+__pycache__/
+*.pyc
+
+# === Sistema / IDE ===
+.DS_Store
+*.log
+.env
 
