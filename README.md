@@ -19,3 +19,5 @@ La cabina (Frontend) -- Torre de control (Backend) -- Caja negra (Base de datos)
 - Backend: FLask
 - Base de datos: Postgresql
 
+prueba
+
